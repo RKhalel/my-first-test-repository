@@ -1,2 +1,2 @@
 #README #
-#Direct change from Githib #
+#Direct change from Github #
